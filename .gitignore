@@ -110,3 +110,6 @@ GitHub.sublime-settings
 
 # Secrets
 secrets.yaml
+
+# Ignore PDF files in the datasheets directory
+datasheets/*.pdf
