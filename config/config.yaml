@@ -1,0 +1,2 @@
+selected_prompt_set_list: "riscv_prompt_set_1" # Pick prompt set list that you want to use
+pdf_directory: "datasheets" # The path containing the PDFs you want to use
