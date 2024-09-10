@@ -1,4 +1,8 @@
-riscv_prompt_set_1 = [
+# This is just an example of a prompt set list.
+# Please change "example_prompt_set_list_1" to something that makes sense for your list of prompt sets. 
+# Do the same for the contents of each prompt set dictionary.
+
+example_prompt_set_list_1 = [
     {
         "name": "riscv_basic_operations",
         "user_role_content": "Generate RISC-V assembly code that performs basic arithmetic operations",
